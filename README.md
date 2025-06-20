@@ -7,7 +7,9 @@
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)]()
 [![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)]()
 
-**DigitalDetox** is an Android application developed for a national-level hackathon to promote healthier digital habits. It empowers users to take control of their screen time through reminders, app limits, focus modes, breathing guides, and gamified digital wellness tools.
+**DigitalDetox** is an Android application developed during a national-level hackathon to promote healthier digital habits. The app encourages mindful mobile usage through customizable restrictions, reminders, and gamified interventions.
+
+> 📁 **Note:** This is a showcase repository. For access to the full source code, please contact me directly.
 
 ---
 
@@ -20,49 +22,59 @@
 
 ## 🌟 Key Features
 
-- ⏱️ **Screen Time Dashboard**  
-  View daily and weekly usage across all apps in visual format.
-
-- 💤 **Bedtime & Focus Modes**  
-  Enforce screen restrictions during scheduled sleep or work hours.
-
-- 🧘 **Breathing & Affirmation Tools**  
-  Provide calming interventions during heavy usage periods.
-
-- 🧩 **Daily Challenges & Rewards**  
-  Gamify detox goals with achievements and coupon redemptions.
-
-- 🔐 **Permissions Management**  
-  Securely request and manage device access permissions.
+- ⏱️ **Screen Time Dashboard** – Visualize daily and weekly screen usage  
+- 😴 **Bedtime & Focus Modes** – Reduce distractions during sleep or work  
+- 🧘 **Breathing & Affirmation Tools** – Provide mental calmness and clarity  
+- 🏆 **Gamified Detoxing** – Track progress through rewards, coupons, and challenges  
+- 👨‍🎓 **Student Mode** – Dedicated tools like study tips and focus rituals  
+- 🔐 **Permissions Control** – Secure device access for monitoring  
+- 💬 **AI Chatbot** – Motivates users to maintain mindful usage
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language**: Kotlin, XML
-- **UI Framework**: Jetpack Compose  
-- **Architecture**: MVVM  
-- **Tools**: Android Studio, Google Firebase Console for Database
+- **Language:** Kotlin, XML  
+- **UI Framework:** Jetpack Compose  
+- **Architecture:** MVVM  
+- **Tools:** Android Studio, Firebase (Realtime DB)
 
 ---
 
 ## 📸 Screenshots
 
-| Home Screen | Screen Time | App List | Focus Mode |
-|-------------|-------------|----------|------------|
+### 🏠 Main Functionalities
+
+| Home | Weekly Screen Time | App List | Focus Mode |
+|------|--------------------|----------|------------|
 | ![](assets/screenshots/Home_page.jpg) | ![](assets/screenshots/Weekly_Screen_Time.jpg) | ![](assets/screenshots/app_list.jpg) | ![](assets/screenshots/Focus_mode.jpg) |
 
-| Breathing Tool | Affirmations | Bedtime Mode | Student Tools |
-|----------------|--------------|---------------|----------------|
-| ![](assets/screenshots/Breathing_mode.jpg) | ![](assets/screenshots/Affirmations.jpg) | ![](assets/screenshots/Bedtime_mode.jpg) | ![](assets/screenshots/Student_tools.jpg) |
+### 😴 Focus and Wellness
 
-> 🧠 More UI details available in the `assets/screenshots/` folder.
+| Breathing Mode | Affirmations | Bedtime Mode | Chatbot |
+|----------------|--------------|--------------|---------|
+| ![](assets/screenshots/Breathing_mode.jpg) | ![](assets/screenshots/Affirmations.jpg) | ![](assets/screenshots/Bedtime_mode.jpg) | ![](assets/screenshots/Chatbot.jpg) |
+
+### 🧩 Rewards, Challenges & Tools
+
+| Daily Challenges | Coupons | Coupon Use | Rewards |
+|------------------|---------|-------------|---------|
+| ![](assets/screenshots/Daily_Challenges.jpg) | ![](assets/screenshots/Coupens.jpg) | ![](assets/screenshots/Coupen_use.jpg) | ![](assets/screenshots/Rewards.jpg) |
+
+### 🎓 Student Productivity Suite
+
+| Student Tools | Focus Rituals | Features for Students |
+|---------------|----------------|------------------------|
+| ![](assets/screenshots/Student_tools.jpg) | ![](assets/screenshots/Focus_rituals.jpg) | ![](assets/screenshots/Features_for_Student.jpg) |
+
+> 🧠 For additional UI details, refer to the [`assets/screenshots/`](assets/screenshots/) folder.
 
 ---
 
 ## 🏆 Recognition
 
-This project was selected as a **Finalist** in a national-level hackathon for its innovation in promoting digital wellness through mobile intervention strategies.
+🏁 **Finalist** – National Level Hackathon  
+Recognized for innovation in digital wellness through behavior-driven mobile design.
 
 ---
 
@@ -70,4 +82,4 @@ This project was selected as a **Finalist** in a national-level hackathon for it
 
 **Aniket Vyavhare**  
 📧 amvyavhare@gmail.com  
-🔗 [GitHub](https://github.com/am-vyavhare) | [LinkedIn](https://www.linkedin.com/in/am-vyavhare)
+🔗 [GitHub](https://github.com/am-vyavhare) | [LinkedIn](https://www.linkedin.com/in/aniket-vyavhare/)
